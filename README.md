@@ -17,3 +17,6 @@ Jinja
 
 ### ditambah AI
 tensorflow, keras, imageAI, requests, numpy, Pillow
+
+### Rujukan
+projek ini akan menggunakan konsep yang sama seperti projek bot discord yang pernah dibuat sebelumnya

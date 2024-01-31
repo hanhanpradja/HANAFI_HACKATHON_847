@@ -1,8 +1,8 @@
 # HANAFI_HACKATHON_847
 ## Ide projek
-projek ku itu adalah website....
+projek ku itu adalah website untuk mencari tahu kendaraan dan total emisi yg dikeluarkan(maxi)
 ## Bahan bahan 
-Bahan nya yaitu sebuah file html dan css lalu file python untuk backend
+Bahan nya yaitu sebuah file html, css, gambar gambar, file python untuk backend
 ### Library
 1. flask
 2. Jinja

@@ -1,12 +1,20 @@
-# HANAFI_HACKATHON_847
-## Ide projek
-projek ku itu adalah website untuk mencari tahu kendaraan dan total emisi yg dikeluarkan(maxi)
-## Bahan bahan 
-Bahan nya yaitu sebuah file html, css, gambar gambar, file python untuk backend
-## Library
-1. flask
-2. Jinja
-3. flask_sqlalchemy
-4. Tensorflow
-5. keras
-6. requests
+# EnvCare-Bot V1
+
+## Deskripsi
+Bot ini akan memanfaatkan AI untuk mengklasifikasi lingkungan yang tercemar polusi, baik udara, perairan, tanah
+
+## Bahan
+* Model AI (tensorflow)
+* Library Discord.py
+* Dataset gambar
+
+
+# Energy Care Website
+
+## Deskripsi
+Website ini berisi artikel interaktif mengenai cara untuk bijak dalam pengunaan energi terutama pada barang rumah tangga
+
+## Bahan
+* Flask
+* HTML dan CSS
+* SQLalchemy (DATABASE)

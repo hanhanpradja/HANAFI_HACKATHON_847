@@ -8,6 +8,10 @@ Bot ini akan memanfaatkan AI untuk mengklasifikasi lingkungan yang tercemar polu
 * Library Discord.py
 * Dataset gambar
 
+## Fitur
+* User bisa mengupload gambar, lalu AI akan memberi tahu informasi terkait gambar tersebut
+* BOT juga dapat memberikan tips cara menyikapi lingkungan dengan polusi terkait
+
 
 # Energy Care Website
 
